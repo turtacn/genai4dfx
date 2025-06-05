@@ -392,10 +392,10 @@ genai4dfx/
 
 ## 参考资料
 
-\[1] [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM)
-\[2] [DfX-NYUAD/GNN4IC](https://github.com/DfX-NYUAD/GNN4IC)
-\[3] [sdfxai/sdfx](https://github.com/sdfxai/sdfx)
-\[4] [Go Project Layout (Standard Go Project Layout)](https://github.com/golang-standards/project-layout)
-\[5] [Clean Code (Robert C. Martin)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-\[6] [Domain-Driven Design (Eric Evans)](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
-\[7] [Mermaid Syntax (Mermaid.js Official Documentation)](https://mermaid.js.org/syntax/flowchart.html)
+- \[1] [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM)
+- \[2] [DfX-NYUAD/GNN4IC](https://github.com/DfX-NYUAD/GNN4IC)
+- \[3] [sdfxai/sdfx](https://github.com/sdfxai/sdfx)
+- \[4] [Go Project Layout (Standard Go Project Layout)](https://github.com/golang-standards/project-layout)
+- \[5] [Clean Code (Robert C. Martin)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- \[6] [Domain-Driven Design (Eric Evans)](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+- \[7] [Mermaid Syntax (Mermaid.js Official Documentation)](https://mermaid.js.org/syntax/flowchart.html)
