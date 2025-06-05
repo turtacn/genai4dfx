@@ -1,4 +1,4 @@
-# genai4dfx: Design for X with Generative AI for Cloud-Native and Big Data Systems
+# genai4dfx: Design for X with Generative AI for Cloud-Native and AI-Native Systems
 
 [中文README](README-zh.md)
 

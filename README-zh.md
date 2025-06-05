@@ -1,4 +1,4 @@
-# genai4dfx: 融合生成式AI的DFX云原生与大数据系统设计平台
+# genai4dfx: 融合生成式AI的DFX云原生与AI原生系统设计平台
 
 [English README](README.md)
 
