@@ -215,7 +215,7 @@ graph LR
 本项目设计为云原生应用，可部署在 Kubernetes 环境中，利用其弹性伸缩、服务发现和自愈能力。
 
 ```mermaid
-graph TD
+graph LR
     %% Legend for GenAI4DFX Deployment Architecture
     %% 基础设施节点 (Infrastructure Nodes) - represents the underlying server infrastructure.
     %% Kubernetes 控制平面 (Kubernetes Control Plane) - represents the Kubernetes master components.
