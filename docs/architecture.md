@@ -72,25 +72,6 @@ DFX 是一种前瞻性的设计哲学，要求在产品设计早期就全面考�
 
 ```mermaid
 graph LR 
-    %% Legend for GenAI4DFX Architecture
-    %% DFX 层 (DFX Layer) - represents the core DFX capabilities.
-    %% GenAI 层 (GenAI Layer) - represents the Generative AI capabilities.
-    %% 平台集成层 (Platform Integration Layer) - represents integration with various platforms.
-    %% 可观测性层 (Observability Layer) - represents monitoring and logging.
-    %% 基础设施层 (Infrastructure Layer) - represents underlying infrastructure services.
-    %%
-    %% DFX-Core Colors
-    %% fill:#82e0aa,stroke:#333,stroke-width:2px,color:#000
-    %% GenAI-Core Colors
-    %% fill:#a9def9,stroke:#333,stroke-width:2px,color:#000
-    %% Integration Colors
-    %% fill:#fbd78b,stroke:#333,stroke-width:2px,color:#000
-    %% Observability Colors
-    %% fill:#c1f0b0,stroke:#333,stroke-width:2px,color:#000
-    %% Infra Colors
-    %% fill:#d4d4d4,stroke:#333,stroke-width:2px,color:#000
-
-
     subgraph UI[用户界面（User Interface）]
         WebUI[Web 界面（Web UI）]
         CLI[命令行工具（CLI Tool）]
