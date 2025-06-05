@@ -222,7 +222,6 @@ graph LR
     %% Kubernetes 工作节点 (Kubernetes Worker Nodes) - represents the nodes running pods.
     %% DFX 应用组件 (DFX Application Components) - represents the microservices of genai4dfx.
     %% 外部依赖服务 (External Dependent Services) - represents services outside genai4dfx but used by it.
-    %%
     %% Node Colors
     %% fill:#c1f0b0,stroke:#333,stroke-width:2px,color:#000
     %% K8s-CP Colors
