@@ -71,7 +71,7 @@ DFX 是一种前瞻性的设计哲学，要求在产品设计早期就全面考�
 下图展示了 `genai4dfx` 的高层逻辑架构，分为核心服务层、接口层、数据层和外部集成层。
 
 ```mermaid
-graph TD
+graph LR 
     %% Legend for GenAI4DFX Architecture
     %% DFX 层 (DFX Layer) - represents the core DFX capabilities.
     %% GenAI 层 (GenAI Layer) - represents the Generative AI capabilities.
